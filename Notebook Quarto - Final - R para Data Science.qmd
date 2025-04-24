@@ -1,18 +1,6 @@
-## Aula 1 - Conhecendo os dados
+### Projeto
 
-#### Projeto do curso
-
-Nós estamos trabalhando em um projeto de uma empresa de People Analytics chamada Tech Safe.
-
-O nosso objetivo principal será realizar uma análise exploratória e responder perguntas levantadas pela Tech Safe.
-
-Ao longo do curso iremos responder diversas perguntas sobre os dados fornecidos pela empresa.
-
-Para isso, vamos utilizar a linguagem de programação R.
-
-### Projeto da aula
-
-A primeira tabela que vamos criar, será a de Colaboradores. Nessa tabela, teremos informações como: Nome, Idade, Salário, Telefone Fixo e Trabalho Remoto.
+A primeira tabela criada, será a de Colaboradores. Nessa tabela, teremos informações como: Nome, Idade, Salário, Telefone Fixo e Trabalho Remoto.
 
 Segue abaixo a tabela que a Tech passou para trabalharmos:
 
